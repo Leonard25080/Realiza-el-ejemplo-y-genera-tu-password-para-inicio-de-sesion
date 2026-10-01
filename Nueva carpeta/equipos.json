@@ -1,0 +1,74 @@
+[
+    {
+        "cliente": "Carlos",
+        "marca": "Samsung",
+        "modelo": "A54",
+        "problema": "Pantalla rota",
+        "costo": "1500",
+        "estado": "En reparación",
+        "foto": "cel1.png"
+    },
+    {
+        "cliente": "María",
+        "marca": "Apple",
+        "modelo": "iPhone 13",
+        "problema": "La batería dura muy poco",
+        "costo": "900",
+        "estado": "Terminado",
+        "foto": "cel2.png"
+    },
+    {
+        "cliente": "Luis",
+        "marca": "Motorola",
+        "modelo": "G84",
+        "problema": "El equipo no enciende",
+        "costo": "700",
+        "estado": "Pendiente",
+        "foto": "cel3.png"
+    },
+    {
+        "cliente": "Rosa",
+        "marca": "Samnsung",
+        "modelo": "1",
+        "problema": "no sirve",
+        "costo": "500",
+        "estado": "Pendiente",
+        "foto": "cel3.png"
+    },
+    {
+        "cliente": "Paco",
+        "marca": "Motorola",
+        "modelo": "edge 60",
+        "problema": "el equipo no enciende",
+        "costo": "700",
+        "estado": "Pendiente",
+        "foto": "cel4.png"
+    },
+    {
+        "cliente": "Franco",
+        "marca": "Apple",
+        "modelo": "Iphone 17",
+        "problema": "parte de atras rota",
+        "costo": "800",
+        "estado": "Pendiente",
+        "foto": "cel5.png"
+    },
+    {
+        "cliente": "Pedro",
+        "marca": "Samsung",
+        "modelo": "s26 ultra",
+        "problema": "prende pero no inicia el sistema",
+        "costo": "900",
+        "estado": "En reparación",
+        "foto": "cel6.png"
+    },
+    {
+        "cliente": "Leo",
+        "marca": "Redmi",
+        "modelo": "note 14 pro",
+        "problema": "pantalla rota",
+        "costo": "700",
+        "estado": "Pendiente",
+        "foto": "cel7.png"
+    }
+]
